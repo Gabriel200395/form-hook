@@ -8,8 +8,8 @@
       <ul>
          <li>#clone o projeto ou faça downolad: https://github.com/Gabriel200395/form-hook.git </li>
          <li>#entre pasta do projeto: cd form-hook </li>
-         <li># baixa as independencias: npm install</li>
-         <li>#executer aplicação: npm start</li>
+         <li>#baixa as independencias: npm install</li>
+         <li>#inicie aplicação: npm start</li>
       <ul>
 </body>  
 </html>
