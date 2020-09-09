@@ -17,8 +17,8 @@
          <li>#entre pasta do projeto: cd form-hook </li>
          <li>#baixa as independencias: npm install</li>
          <li>#inicie aplicação: npm start</li>
+         <li>Ira abrir uma pagina no browser(se não abrir, entre em: http://localhost:3000/)</li>
       <ul>
-     <p style="text-align:left">Ira abrir uma pagina no browser(se não abrir, entre em: http://localhost:3000/)</p>
 </body>  
 </html>
 
