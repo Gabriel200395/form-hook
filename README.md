@@ -18,8 +18,7 @@
          <li>#baixa as independencias: npm install</li>
          <li>#inicie aplicação: npm start</li>
       <ul>
-       
-       
+       <p>Ira abrir uma pagina no browser(se não abrir, entre em: http://localhost:3000/)</p>
 </body>  
 </html>
 
