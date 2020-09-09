@@ -1,6 +1,6 @@
 <html>
 <body>
-    <h1>Como enviar dados para o banco utilizando os hooks react<h1> 
+    <h1>Como enviar dados para o banco utilizando os hooks react.<h1> 
         <img src="/public/images/form-tela.gif" /> 
     <br />
          <h5>sobre</h5>
