@@ -32,7 +32,7 @@ export default function Formulario() {
 
                     />
                     <button>Enviar</button>
-                </form> : <h1>Cadastro feito com Sucesso</h1>
+                </form> : <h1 className="sucess">Cadastro feito com Sucesso</h1>
             }
         </>
     );
