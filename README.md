@@ -8,7 +8,8 @@
             <p>Esse projeto foi desenvolvido para lida com o nosso formulario enviando os dados para o banco utilizando hook,
             com isso criei um inputCustom ele vai lidar com onChange e onSubmit do nosso formulario e enviar nosso dados banco, o mais legal e 
             que isolei as responsabilidades para  cada componente ou seja cada componente vai ter a sua função não vai precisa deixa o seu
-            componente gigante com varias funcionalidades.    
+            componente gigante com varias funcionalidades e nisso o projeto foi baseado nisso deixando uma performence do nosso codigo mais 
+             limpo e intendivel. 
             </p>  
           </div>    
          <h5>passo a passo</h5>
