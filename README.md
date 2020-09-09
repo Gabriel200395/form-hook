@@ -1,6 +1,6 @@
 <html>
 <body>
-    <h1>Desenvolver um Inputcustom para lida com onChange do meu formulario e depois fazer o post no Banco,
+    <h1>Desenvolver um Inputcustom para lida com onChange do meu formulario e depois fez o post no Banco,
      o mais legal que criei um hook para isso retornando os parametros para o meu formulario.   
     <h1>  
         <img src="/public/images/form-tela.gif" /> 
