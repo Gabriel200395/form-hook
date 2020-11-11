@@ -1,8 +1,8 @@
 <html>
    <body>
-  <h1 align="center">Cadastro de Livro</h1>
+  <h1 align="center">Trabalhando Com Hooks React</h1>
 <h4 align="center">
-  <img src="./public/IMG/form-hook.gif"  /><br>
+  <img src="./public/Images/form-tela.gif"  /><br>
 </h4>
 
 <p align="center">
@@ -18,15 +18,13 @@
 <!--EXEMPLO:-->
 - [React](https://pt-br.reactjs.org/)
 - [Axios](https://www.npmjs.com/package/axios)
-- [React Router](https://www.npmjs.com/package/react-router-dom)
-- [Materialize Css](https://materializecss.com/)
 
 ## :page_facing_up: Sobre
 
 Esse projeto foi desenvolvido para lida com o nosso formulario enviando os dados para o banco utilizando hook, com isso criei um inputCustom ele vai lidar com onChange e onSubmit do nosso formulario e enviar nosso dados banco, o mais legal e que isolei as responsabilidades para  cada componente ou seja cada componente vai ter a sua função não vai precisa deixa o seu componente gigante com varias funcionalidades, baseado nisso deixamos o nosso codigo mais limpo e uma performence melhor da nossa aplicação.               
 ## 💻 Como usar
 
-- Clone o projeto: `git clone https://github.com/Gabriel200395/cadastro-livro.git`
+- Clone o projeto: `git clone https://github.com/Gabriel200395/form-hook.git`
 - Entrar na pasta do projeto: `cd cadastro-livro`;
 - Iniciar a aplicação: `npm start`.
 
