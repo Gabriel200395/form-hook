@@ -25,8 +25,10 @@ Esse projeto foi desenvolvido para lida com o nosso formulario enviando os dados
 ## 💻 Como usar
 
 - Clone o projeto: `git clone https://github.com/Gabriel200395/form-hook.git`
-- Entrar na pasta do projeto: `cd cadastro-livro`;
-- Iniciar a aplicação: `npm start`.
+- Entrar na pasta do projeto: `cd cadastro-livro`
+- Iniciar a aplicação: `npm start`
+- baixe na aplicação: `npm install`
+
 
 Irá abrir uma página no browser (se não abrir, vá até [http://localhost:8080](http://localhost:8080/)).
 ## :pencil: Autor
