@@ -20,8 +20,7 @@
 - [Axios](https://www.npmjs.com/package/axios)
 
 ## :page_facing_up: Sobre
-
-Esse projeto foi desenvolvido para lida com o nosso formulario enviando os dados para o banco utilizando hook, com isso criei um inputCustom ele vai lidar com onChange e onSubmit do nosso formulario e enviar nosso dados banco, o mais legal e que isolei as responsabilidades para  cada componente ou seja cada componente vai ter a sua função não vai precisa deixa o seu componente gigante com varias funcionalidades, baseado nisso deixamos o nosso codigo mais limpo e uma performence melhor da nossa aplicação.               
+Projeto que desenvolvi com o objetivo de aprender sobre os Hooks do ReactJS. Hooks foram criados para facilitar a criação de componentes reutilizáveis, desacoplados e funcionais. Com esse projeto pude aprimorar minhas habilitades para criar aplicações com padrões modernos no ReactJS. Caso queira saber mais sobre o projeto, clique no botão abaixo.   
 ## 💻 Como usar
 
 - Clone o projeto: `git clone https://github.com/Gabriel200395/form-hook.git`
